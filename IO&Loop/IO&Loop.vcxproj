@@ -111,7 +111,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>C:\Users\yashs\source\repos\CPP_Implimentation\IO&amp;Loop\HeaderFiles;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Users\Yash Doshi\source\repos\cctechyashdoshi\CPP_Implimentation\IO&amp;Loop\HeaderFiles;C:\Users\yashs\source\repos\CPP_Implimentation\IO&amp;Loop\HeaderFiles;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

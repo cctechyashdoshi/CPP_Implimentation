@@ -15,13 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IO&amp;Loop.cpp" />
-    <ClCompile Include="SourceFiles\cin.cpp">
+    <ClCompile Include="SourceFiles\InputOutput.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IO&amp;Loop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="HeaderFiles\cin.h">
+    <ClInclude Include="HeaderFiles\InputOutput.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arrays&Strings", "Arrays&St
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sorting&Searching", "Sorting&Searching\Sorting&Searching.vcxproj", "{9B8DE481-004C-4ABC-A5D6-13E559D9A2E7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stack&DataStructure", "Stack&DataStructure\Stack&DataStructure.vcxproj", "{EC405D8A-66DA-4343-BB79-37F9295CCB61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{9B8DE481-004C-4ABC-A5D6-13E559D9A2E7}.Release|x64.Build.0 = Release|x64
 		{9B8DE481-004C-4ABC-A5D6-13E559D9A2E7}.Release|x86.ActiveCfg = Release|Win32
 		{9B8DE481-004C-4ABC-A5D6-13E559D9A2E7}.Release|x86.Build.0 = Release|Win32
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Debug|x64.ActiveCfg = Debug|x64
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Debug|x64.Build.0 = Debug|x64
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Debug|x86.Build.0 = Debug|Win32
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Release|x64.ActiveCfg = Release|x64
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Release|x64.Build.0 = Release|x64
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Release|x86.ActiveCfg = Release|Win32
+		{EC405D8A-66DA-4343-BB79-37F9295CCB61}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

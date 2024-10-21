@@ -131,7 +131,7 @@
     <ClCompile Include="SourceFiles\SortingAndSearching.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="HeaderFiles\SortingAndSearching.h" />
+    <ClInclude Include="HeaderFiles\Sorting&amp;Searching.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

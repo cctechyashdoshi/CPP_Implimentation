@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartPointers", "SmartPoint
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lambda", "Lambda\Lambda.vcxproj", "{AF212C36-BD32-4093-84A5-16C170C2B55A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TypeCasting", "TypeCasting\TypeCasting.vcxproj", "{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{AF212C36-BD32-4093-84A5-16C170C2B55A}.Release|x64.Build.0 = Release|x64
 		{AF212C36-BD32-4093-84A5-16C170C2B55A}.Release|x86.ActiveCfg = Release|Win32
 		{AF212C36-BD32-4093-84A5-16C170C2B55A}.Release|x86.Build.0 = Release|Win32
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Debug|x64.ActiveCfg = Debug|x64
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Debug|x64.Build.0 = Debug|x64
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Debug|x86.Build.0 = Debug|Win32
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Release|x64.ActiveCfg = Release|x64
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Release|x64.Build.0 = Release|x64
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Release|x86.ActiveCfg = Release|Win32
+		{EDAA0D7D-0496-47B7-8DE6-42A23558CB85}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

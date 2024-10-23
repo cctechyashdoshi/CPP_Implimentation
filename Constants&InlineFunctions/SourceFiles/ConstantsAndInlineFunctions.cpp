@@ -1,4 +1,4 @@
-#include "shapes.h"
+#include "../HeaderFiles/ConstantsAndInlineFunctions.h"
 #include <iostream>
 
 Shape::Shape(double initialArea): areaPtr(new double(initialArea)) 
